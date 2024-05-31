@@ -1,0 +1,1009 @@
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+| X     O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       O       | 2
+| X X   O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|       X       | 4
+|       O       | 3
+|       O O     | 2
+| X X   O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|       X       | 4
+|       O       | 3
+|       O O     | 2
+| X X O O X   X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|     X X       | 4
+|   O O O X     | 3
+|   X O O O     | 2
+| X X O O X   X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   X   O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   X O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       O       | 2
+|   X O O X X   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|       X       | 4
+|       O   O   | 3
+|       O   X   | 2
+|   X O O X X   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|       X       | 4
+|     O O   O   | 3
+|     X O   X   | 2
+|   X O O X X   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|       X       | 4
+|   O O O   O   | 3
+|   X X O   X   | 2
+|   X O O X X   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|     O O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|     O O     X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       O       | 2
+|   X O O O X X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X O O     | 2
+|   X O O O X X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   X   O O     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 188.86 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   O   X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 248.66 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 254.08 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 162.19 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|       X       | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 148.93 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 142.60 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|     O         | 5
+|     X O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 135.55 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|     O O       | 5
+|     X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 121.72 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 176.30 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|     X O O     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 207.81 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X O     | 2
+|     X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 265.34 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|         X     | 4
+|       X O     | 3
+|       X O O   | 2
+|     X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 200.55 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|         X     | 4
+|       X O     | 3
+|     X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 208.27 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|       O       | 5
+|       X X     | 4
+|       X O     | 3
+|     X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 185.09 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|       O   O   | 5
+|       X X X   | 4
+|       X O O   | 3
+|   X X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 102.40 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 164.21 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   O   X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 207.67 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 177.15 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 144.86 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|       X       | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 128.61 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 171.18 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|     O         | 5
+|     X O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 130.57 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|     O O       | 5
+|     X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 120.69 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 183.81 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|     X O O     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 215.35 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X O     | 2
+|     X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 231.41 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|         X     | 4
+|       X O     | 3
+|       X O O   | 2
+|     X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 198.18 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|         X     | 4
+|       X O     | 3
+|     X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 229.07 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|       O       | 5
+|       X X     | 4
+|       X O     | 3
+|     X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 162.40 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|       O   O   | 5
+|       X X X   | 4
+|       X O O   | 3
+|   X X X O O   | 2
+|   O X O O O X | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 98.01 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 185.29 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   O   X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 215.06 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 188.91 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 150.51 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|       X       | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 128.82 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 148.34 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|     O         | 5
+|     X O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 148.90 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|     O O       | 5
+|     X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 117.76 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 239.47 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|     O O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 221.76 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 313.96 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 218.53 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|     X         | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 218.29 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 685.86 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 701.34 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 217.30 MillisekundenSpieler 1 hat 2  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 456.41 MillisekundenSpieler 1 hat 4  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 292.28 MillisekundenSpieler 1 hat 1  ausgewählt
+|     O         | 6
+|     X O       | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O X O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 393.33 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 252.83 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   O   X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 264.99 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 250.02 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 880.30 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|       X       | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 570.86 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 201.35 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|     O         | 5
+|     X O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 588.53 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|     O O       | 5
+|     X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 475.11 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|     O O       | 5
+|   O X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 640.10 MillisekundenSpieler 1 hat 1  ausgewählt
+|       O       | 6
+|   X O O       | 5
+|   O X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 266.99 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|               | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 203.91 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|   O   X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 247.00 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 220.90 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 760.73 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|       X       | 3
+|     X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 568.98 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 219.07 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|     O         | 5
+|     X O       | 4
+|     X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 613.66 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|     O O       | 5
+|     X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 451.32 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|     O O       | 5
+|   O X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 599.76 MillisekundenSpieler 1 hat 1  ausgewählt
+|       O       | 6
+|   X O O       | 5
+|   O X O       | 4
+|   X X X       | 3
+|   O X X       | 2
+| O O O X X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 306.30 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 203.21 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|     O O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 206.50 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 309.02 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 226.86 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|     X         | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 804.03 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 626.88 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 216.50 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 211.70 MillisekundenSpieler 1 hat 2  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 425.36 MillisekundenSpieler 1 hat 4  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 278.05 MillisekundenSpieler 1 hat 1  ausgewählt
+|     O         | 6
+|     X O       | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O X O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 363.73 MillisekundenSpieler 1 hat 1  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|               | 2
+|       O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 206.59 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|     O O       | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 231.23 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|       X       | 2
+|   O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 326.35 MillisekundenSpieler 1 hat 0  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|               | 3
+|     O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 203.46 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|               | 4
+|     X         | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 235.74 MillisekundenSpieler 1 hat 3  ausgewählt
+|               | 6
+|               | 5
+|       O       | 4
+|     X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 724.72 MillisekundenSpieler 1 hat 2  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X       | 2
+| X O O O X     | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 802.56 MillisekundenSpieler 1 hat 4  ausgewählt
+|               | 6
+|               | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 207.25 MillisekundenSpieler 1 hat 2  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O       | 4
+| O   X X       | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 442.80 MillisekundenSpieler 1 hat 4  ausgewählt
+|     O         | 6
+|     X         | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O   O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 277.29 MillisekundenSpieler 1 hat 1  ausgewählt
+|     O         | 6
+|     X O       | 5
+|     X O O     | 4
+| O   X X X     | 3
+| O X O X X     | 2
+| X O O O X O   | 1
+└ ─ ─ ─ ─ ─ ─ ─ ┘
+  0 1 2 3 4 5 6  
+Die Ausführungszeit des nächsten Spielzugs von Spieler 1 ist : 363.30 MillisekundenSpieler 1 hat 1  ausgewählt
